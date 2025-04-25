@@ -1,7 +1,7 @@
 # 🎙️ Samantha Voice AI Agent
 
 <div align="center">
-  <img src="https://github.com/ibxibx/workflow-pictures/logo.jpeg" alt="Samantha Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/ibxibx/samantha-voice-ai-agent/main/workflow-pictures/logo.jpeg" alt="Samantha Logo" width="200"/>
   <h3>Your AI companion just a call away</h3>
   <p>A no-code voice AI assistant that saves your ideas to Google Drive</p>
   
